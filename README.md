@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shrutilenka
-- 👀 I’m interested in Web development and designing.
+- 👀 I’m interested in Web development and graphic designing.
 - 🌱 I’m currently improving my skills in ReactJs.
 - 💞️ I’m looking to collaborate on projects related to front-end development.
 - 📫 Reach me - shrutilenka1202@gmail.com
