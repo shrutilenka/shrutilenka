@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Shruti Lenka</h1>
-<h3 align="center">A passionate frontend developer from India with experience and expertise in designing, developing, and implementing user-friendly, visually appealing, and responsive websites and web applications.</h3>     
+<h3 align="center">A passionate frontend developer</h3>     
 
 
     
