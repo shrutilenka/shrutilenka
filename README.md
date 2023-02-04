@@ -1,9 +1,5 @@
-<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>, I'm Shruti Lenka</h1>
-<h3 align="center">A passionate frontend developer</h3>     
-
-
-    
-    
+<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"width="30"/>, I'm Shruti Lenka</h1>
+<h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
 <!-- https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif -->
 
