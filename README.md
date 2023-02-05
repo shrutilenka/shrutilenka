@@ -30,7 +30,7 @@
 <!-- End here -->
 
 ### 📊 Most Used Language 
-<p><img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutilenka&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shrutilenka" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutilenka&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shrutilenka" /></p>
 
 <!-- Start Here   -->
 
