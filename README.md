@@ -22,14 +22,18 @@
 <!-- GitHub Stats  Start here -->
 ### 👩‍💻 Account Statistics
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=shrutilenka&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats" alt="GitHub stats" align="left"></p>
+<!-- <p><img src="https://github-readme-stats.vercel.app/api?username=shrutilenka&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats" alt="GitHub stats" align="left"></p> -->
+  <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutilenka&show_icons=true&locale=en&theme=gotham" alt="shrutilenka" />
+
     
 <!-- End here -->
 
 <!-- starts here -->
 
-### 📊 Most Used Language 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutilenka&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shrutilenka" /></p>
+<!-- ### 📊 Most Used Language  -->
+<!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutilenka&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shrutilenka" /></p> -->
+ <img width="50%" src="https://github-readme-stats.vercel.app/api?username=shrutilenka&show_icons=true&locale=en&theme=gotham" alt="shrutilenka" />
+
 
 <!-- ends here -->
 
@@ -62,19 +66,22 @@
 
 <!--  Start here  -->
 
- ### ⤴️ GitHub Streaks 
+ ### 📈 GitHub Streaks 
  
 <details>
-  <summary> 📈 &nbsp; <i>My Streak</i></summary>
+  <summary>  &nbsp; <i>here</i></summary>
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shrutilenka&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrutilenka&theme=gotham)](https://git.io/streak-stats)
 
+<!--     <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=shrutilenka&theme=gotham" alt="shrutilenka" />
+ -->
 </details> 
 
 <!-- End here -->
 
 <!-- starts here -->
 <h3 align="left">👩‍💻 Languages and Tools</h3>
+
 <!--  -->
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
