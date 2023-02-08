@@ -20,21 +20,19 @@
 <!--End here-->
 
 <!-- GitHub Stats  Start here -->
-### 👩‍💻 Account Statistics
+<h2>👩‍💻 Account Statistics</h2>
 
 <!-- <p><img src="https://github-readme-stats.vercel.app/api?username=shrutilenka&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats" alt="GitHub stats" align="left"></p> -->
-  <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutilenka&show_icons=true&locale=en&theme=gotham" alt="shrutilenka" />
-
-    
+ <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutilenka&show_icons=true&locale=en&theme=gotham" alt="shrutilenka" />
+ <img width="50%" src="https://github-readme-stats.vercel.app/api?username=shrutilenka&show_icons=true&locale=en&theme=gotham" alt="shrutilenka" />
+ <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=shrutilenka&theme=gotham" alt="shrutilenka" />   
 <!-- End here -->
 
 <!-- starts here -->
 
 <!-- ### 📊 Most Used Language  -->
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutilenka&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shrutilenka" /></p> -->
- <img width="50%" src="https://github-readme-stats.vercel.app/api?username=shrutilenka&show_icons=true&locale=en&theme=gotham" alt="shrutilenka" />
- <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=shrutilenka&theme=gotham" alt="shrutilenka" />
-
+ 
 <!-- ends here -->
 
 <!-- Start Here   -->
@@ -73,15 +71,14 @@
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shrutilenka&theme=gotham)](https://git.io/streak-stats)
 
-<!--     <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=shrutilenka&theme=gotham" alt="shrutilenka" />
- -->
+    <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=shrutilenka&theme=gotham" alt="shrutilenka" />
+ 
 </details>  -->
 
 <!-- End here -->
 
 <!-- starts here -->
-<h3 align="left">👩‍💻 Languages and Tools</h3>
-
+<h2>⚙️ Languages and Tools</h2>
 <!--  -->
 <p align="left"> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
@@ -93,8 +90,8 @@
 <!-- ends here -->
 
 <!-- starts here -->
-
-### Connect with me:
+  
+<h2>⚓ Connect with me</h2>
 
 <a href="https://dev.to/shrutilenka"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /><a/>
 <a><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/><a>
@@ -103,6 +100,7 @@
 <a><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
  
 <!-- ends here -->
+<!--  -->
 ![footer](https://cloud-lfiu270y0-hack-club-bot.vercel.app/0footer.png)
 
  <!-- [![Linkedin: shruti](https://img.shields.io/badge/-shruti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/shruti-lenka-44bb42232)](www.linkedin.com/in/shruti-lenka-44bb42232)
