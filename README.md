@@ -23,7 +23,7 @@
 ### 👩‍💻 Account Statistics
 
 <!-- <p><img src="https://github-readme-stats.vercel.app/api?username=shrutilenka&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats" alt="GitHub stats" align="left"></p> -->
-  <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutilenka&show_icons=true&locale=en&theme=gotham" alt="shrutilenka" />
+  <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutilenka&show_icons=true&locale=en&theme=gotham" alt="shrutilenka" />
 
     
 <!-- End here -->
@@ -33,7 +33,7 @@
 <!-- ### 📊 Most Used Language  -->
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutilenka&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shrutilenka" /></p> -->
  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=shrutilenka&show_icons=true&locale=en&theme=gotham" alt="shrutilenka" />
-
+ <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=shrutilenka&theme=gotham" alt="shrutilenka" />
 
 <!-- ends here -->
 
@@ -65,7 +65,7 @@
 <!-- End here -->
 
 <!--  Start here  -->
-
+<!-- 
  ### 📈 GitHub Streaks 
  
 <details>
@@ -75,7 +75,7 @@
 
 <!--     <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=shrutilenka&theme=gotham" alt="shrutilenka" />
  -->
-</details> 
+</details>  -->
 
 <!-- End here -->
 
