@@ -111,7 +111,7 @@
   
 <h2>⚓ Connect with me</h2>
 
-<a href="https://dev.to/shrutilenka"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /><a/>
+<a href=""><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /><a/>
 <a href="https://www.behance.net/shrutilenka" target="_blank"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white"/><a>
 <a href="https://www.linkedin.com/in/shruti-lenka-44bb42232/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>
