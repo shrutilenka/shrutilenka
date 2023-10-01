@@ -13,19 +13,19 @@
 ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 <!--Start here-->
-<h2>🏆 Github Profile Trophy</h2>
+<!-- <h2>🏆 Github Profile Trophy</h2>
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img height="200" src="https://github-profile-trophy.vercel.app/?username=shrutilenka&column=8&row=1&theme=monokai&no-frame=true"/>
-</a>
+</a> -->
 <!--End here-->
 
 <!-- GitHub Stats  Start here -->
 <h2>👩‍💻 Account Statistics</h2>
 
 <!-- <p><img src="https://github-readme-stats.vercel.app/api?username=shrutilenka&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats" alt="GitHub stats" align="left"></p> -->
- <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutilenka&show_icons=true&locale=en&theme=gotham" alt="shrutilenka" />
- <img width="50%" src="https://github-readme-stats.vercel.app/api?username=shrutilenka&show_icons=true&locale=en&theme=gotham" alt="shrutilenka" />
- <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=shrutilenka&theme=gotham" alt="shrutilenka" />   
+<!-- <img width="45%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrutilenka&show_icons=true&locale=en&theme=gotham" alt="shrutilenka" /> -->
+ <img width="50%" src="https://github-readme-stats.vercel.app/api?username=shrutilenka&show_icons=true&locale=en&theme=gotham" alt="shrutilenka" /> 
+<!-- <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=shrutilenka&theme=gotham" alt="shrutilenka" />  --> 
 <!-- End here -->
 
 <!-- starts here -->
@@ -118,7 +118,7 @@
  
 <!-- ends here -->
 <!--  -->
-![footer](https://cloud-lfiu270y0-hack-club-bot.vercel.app/0footer.png)
+<!-- ![footer](https://cloud-lfiu270y0-hack-club-bot.vercel.app/0footer.png)
 
  <!-- [![Linkedin: shruti](https://img.shields.io/badge/-shruti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/shruti-lenka-44bb42232)](www.linkedin.com/in/shruti-lenka-44bb42232)
 ![GitHub followers](https://img.shields.io/github/followers/shrutilenka?label=Follow&style=social)
