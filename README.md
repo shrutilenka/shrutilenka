@@ -10,7 +10,7 @@
 - 🍵 -When I'm not coding, you can find me browsing memes or pretending to workout.
 - 😎 -Pro tip: "don't trust a skinny chef, and don't trust a web developer who hasn't broken their website at least once."
 
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
+<!-- ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg) -->
 
 <!--Start here-->
 <!-- <h2>🏆 Github Profile Trophy</h2>
